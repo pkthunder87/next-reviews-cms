@@ -1,6 +1,6 @@
 # Next Reviews CMS
 
-Code along with Mirko Next Reviews CMS. This is basically Part II of the course and a continuation of Next Reviews. Part I, Next Reviews, was for a static site. Part II, Next Reviews CMS, is a full stack app.
+Code along with Mirko Next Reviews CMS. This basically provides a strapi CMS for our Next Reviews app.
 
 ### From Udemy Instructor Mirko Nasato: Next.js by Example
 
